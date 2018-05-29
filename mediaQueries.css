@@ -1,0 +1,29 @@
+@media screen and (min-width: 768px){
+   .banner .card .heading {
+    color: blue;
+    font-size: 4rem;
+    font-weight: 700;
+ }
+}
+@media screen and (min-width: 480px) and (max-width: 767px){
+ .banner .card .heading {
+    color: violet;
+    font-size: 3rem;
+    font-weight: 500;
+   }
+  
+   .banner .card .sub-heading {
+    color: pink;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0 3vw 1.5vw;
+     }
+  }
+@media screen and (max-width: 480px){
+  .banner .card .heading {
+    color: #35eea4;
+    font-size: 2rem;
+    font-weight: 300;
+   }
+   .
+ }  
